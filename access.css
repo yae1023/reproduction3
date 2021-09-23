@@ -1,0 +1,17 @@
+.cont3_ul_clinic2{
+  display: flex;
+  padding-left: 25px;
+}
+.cont3_li_p1{
+  padding: 20px 0;
+}
+.cont3{
+  padding-bottom: 30px;
+}
+ .intyou_ul{
+  padding-bottom: 20px;
+  border-bottom: #6CC6C4 3px solid;
+} 
+.cont3_ul_clinic2 img{
+  padding-right: 20px;
+}
