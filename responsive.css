@@ -1,0 +1,97 @@
+/*スマホサイズの時*/
+@media (max-width : 800px){
+
+  .body{
+    width: 95%;
+    margin: 0 auto;
+  }
+
+  .header{
+    justify-content: center;
+    height: 170px;
+  }
+  .logo_img{
+    padding: 10px 0 0 0;
+  }
+  .head_right{
+    position: absolute;
+    top: 52px;
+    left: 0;
+  }
+  .head_p1{
+    padding-top: 5px;
+  }
+
+
+  .contents1{
+    display: flex;
+    flex-direction: column;
+  }
+  .border_p{
+    border-top: #6CC6C4 1px solid;
+    border-left: none;
+  }
+
+
+  .cont2_cont3{
+    flex-direction: column-reverse;
+  }
+
+  .contents3{
+    width: 100%;
+  }
+  .cont3_img{
+    width: 100%;
+  }
+
+
+  .contents2{
+    width: 100%;
+  }
+  
+
+  .contents4{
+    width: 100%;
+    margin: 20px auto 17px auto;
+  }
+  .contents4 ul{
+    flex-direction: column;
+  }
+  .contents4 li{
+    padding: 5px 10px;
+  }
+
+
+  .contents5{
+    padding: 0;
+    flex-direction: column;
+    text-align: right;
+  }
+  .contents5 p{
+    padding: 3px;
+  }
+  
+
+  /* staff */
+  .intyou_ul{
+    flex-direction: column;
+  }
+  .intyou_li1{
+    text-align: center;
+  }
+  .cont3_ul_clinic img{
+    width: 100%;
+  }
+
+
+  /* access */
+  iframe{
+    width: 100%;
+  }
+  .cont3_ul_clinic2{
+    flex-direction: column;
+  }
+  .cont3_ul_clinic2 img{
+    /* padding: 0 5%; */
+  }
+} 
