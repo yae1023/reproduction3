@@ -1,0 +1,34 @@
+.cont3_clinic_p{
+  padding: 40px 0 30px 20px;
+  /* border-radius: 5px 5px 0 0; */
+  background: linear-gradient(#9af5f4, #6CC6C4);
+  color: #fff;
+}
+.cont3_ul_clinic{
+  padding: 20px 25px 5px 25px;
+}
+.cont3_li_p1{
+  color: #6CC6C4;
+  padding-bottom: 20px;
+}
+.cont3_li_p2{
+  font-size: 13px;
+  line-height: 20px;
+  padding-bottom: 25px;
+}
+
+th,td {
+  font-size: 12px;
+  text-align: center;
+  border: gray 1px solid ;  /* 枠線指定 */
+  height: 50px;
+  padding-top: 18px;
+}
+table {
+  border-collapse:  collapse; /* セルの線を重ねる */
+  margin-bottom: 25px;
+  width: 100%;
+}
+.tr_date{
+  background-color:#d1d1d1;
+}
